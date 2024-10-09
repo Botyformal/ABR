@@ -16,6 +16,8 @@ por ejemplo,
 #lista no ordenada
 lenguajes de programación:
 
-*ejote
-*pipi
-*calabaza
+* ejote
+* pipi
+* calabaza
+
+
