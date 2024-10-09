@@ -56,10 +56,9 @@ a poco si muy aca de programadora
  malabar editorial  es una campaña para escribir poesia y cuentos no academic´a
 
 
- ´´´
- lo que sea
- ´´´
 
-
+```javascript
+var a = {};
+```
 
  
