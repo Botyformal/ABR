@@ -42,3 +42,9 @@ agregar imagenes
 | esto  |es una   | tabla        |
 |-------|:-------:|-------------:|
 | fila 2| fila tal| fila final   |
+
+a poco si muy aca de programadora 
+ menos, no onde esta el **summary**
+
+ hay algo llamado sparks que funciona en phyton. databricks tiene codigos abiertos para aprenderlo
+ 
