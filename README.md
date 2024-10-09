@@ -50,7 +50,7 @@ a poco si muy aca de programadora
  se pueden poner emojis pero parece que no en todos lados aparece
 
  API 
-
+![justicia spicigera] (186448976_506557940469958_3565772631855718688_n.jpg)
  malabar editorial  es una campaña para escribir poesia y cuentos no academica
 
  
