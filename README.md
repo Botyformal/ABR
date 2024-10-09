@@ -31,7 +31,7 @@ hasta se pueden poner links del mismi github o de un repositorio por ejemplo con
 agregar imagenes
 
 # En linea con el texto
-![texto alternativo; esta imegen trata de:] (no se que poner bb)
+![texto alternativo; esta imegen trata de:] (se pone el nombre de la imagen.jpg)
 
  codigo java 
 
