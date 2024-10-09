@@ -26,4 +26,10 @@ para personas invidentes el lector de texto les comunica la descripción del lug
 por ejemplo se pega la liga y se ponen corchetes 
 [liga y descripción para invidentes][https://www.scielo.org.ar/scielo.php?pid=S1668-34982011000200011&script=sci_arttext#ref]
 
+hasta se pueden poner links del mismi github o de un repositorio por ejemplo con ayuda de carpetas se pueden 
 
+agregar imagenes
+
+# En linea con el texto
+![texto alternativo; esta imegen trata de:] ()
+ 
