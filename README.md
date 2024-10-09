@@ -34,3 +34,11 @@ agregar imagenes
 ![texto alternativo; esta imegen trata de:] (no se que poner bb)
 
  codigo java 
+
+ para ahcer tablas se recomienda hacer otra cosa como con htlm pero si quiera se usa 
+
+ :----: eso significa que el texo va centrado
+ 
+| esto  |es una   | tabla        |
+|-------|:-------:|-------------:|
+| fila 2| fila tal| fila final   |
