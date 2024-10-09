@@ -47,4 +47,10 @@ a poco si muy aca de programadora
  menos, no onde esta el **summary**
 
  hay algo llamado sparks que funciona en phyton. databricks tiene codigos abiertos para aprenderlo
+ se pueden poner emojis pero parece que no en todos lados aparece
+
+ API 
+
+ malabar editorial  es una campaña para escribir poesia y cuentos no academica
+
  
