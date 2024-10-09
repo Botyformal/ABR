@@ -2,10 +2,10 @@
 TERCER INTENTO DE LA PRACTICA
 #### HASTA NIVEL 6 DE TITULO
 
-##DESCRIPCIÓN
+## DESCRIPCIÓN
 EJERCICIO
 
-#######TITULO DE SEXTO NIVEL 
+####### TITULO DE SEXTO NIVEL 
 
 En markdown siempre se ha podido poner el acento en las palabras de manera directa
 
@@ -19,5 +19,8 @@ lenguajes de programación:
 * ejote
 * pipi
 * calabaza
+
+también se puede sumar links, por ejemplo con el nombre de la pagina y su acceso
+para personas invidentes el lector de texto les comunica la descripción del lugar a lo que te lleva el link o hasta se puede hacer para describir imagenes igual como aporte para personas invidentes
 
 
