@@ -8,3 +8,14 @@ EJERCICIO
 #######TITULO DE SEXTO NIVEL 
 
 En markdown siempre se ha podido poner el acento en las palabras de manera directa
+
+
+para hacer listas ordenadas se antecede cada linea con un numero 
+por ejemplo, 
+
+#lista no ordenada
+lenguajes de programación:
+
+*ejote
+*pipi
+*calabaza
